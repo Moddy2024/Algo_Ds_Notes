@@ -23,7 +23,7 @@ class quick
 		
 		while (true) 
 		{ 
-			// From left, find the first element greater than 
+		// From left, find the first element greater than 
 			// or equal to v. This loop will definitely terminate 
 			// as v is last element 
 			while (a[++i] < v); 
